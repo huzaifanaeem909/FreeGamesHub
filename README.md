@@ -10,19 +10,9 @@ Welcome to FreeGamesHub! Explore a huge collection of free PC games and browser-
 - Framer Motion
 - NextUI
 
-## <a name="features">🔋 Features</a>
-
-- **Beautiful Subtle Smooth Animations using GSAP**: Enhanced user experience with seamless and captivating animations powered by GSAP.
-
-- **3D Model Rendering with Different Colors and Sizes**: Explore the iPhone 15 Pro from every angle with dynamic 3D rendering, offering various color and size options.
-
-- **Custom Video Carousel (made with GSAP)**: Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience.
-
-- **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
-
 ## Deployed Site
 
-Here is the live demo for this projects. Click on the links to explore the fully functional versions and see how this project showcases different aspects of frontend development: [Free Games Hub](https://.vercel.app/)
+Here is the live demo for this projects. Click on the links to explore the fully functional versions and see how this project showcases different aspects of frontend development: [Free Games Hub](https://free-games-hub.vercel.app)
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
